@@ -14,3 +14,6 @@ Python簡單教學，從入門到~~放棄~~自學
 * [高中生程式解題系統](https://zerojudge.tw/)
 * [UVA](https://uva.onlinejudge.org/index.php)
 * [interviewbit](https://www.interviewbit.com/practice/)
+
+### 其他資料
+* [Python Special methods](https://diveinto.org/python3/special-method-names.html)
